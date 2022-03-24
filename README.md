@@ -57,7 +57,7 @@ IFPRFOZ: Segurança de Aplicações (o que você precisa saber)
 
 ---
 
-####  I am 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
+####  I am a 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
 Discovered and reported several vulnerabilities in projects like **Spotify, Symantec, Defense Industrial Base Vulnerability Disclosure Program (DIB-VDP) or Adobe**.
 
 #### ⚔️ CVE reported by me:
