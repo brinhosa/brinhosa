@@ -23,7 +23,7 @@ Welcome to my page; on my Github, you can find:
 
 ![GITHUB STARS](https://github-readme-stats.vercel.app/api?username=brinhosa&show_icons=true&theme=dracula)
 
-#### Recent Conferences ![YouTube](https://img.shields.io/badge/presentations-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white):
+#### Recent ![YouTube](https://img.shields.io/badge/presentations-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white):
 Bhack 2021: Hackeando suas próprias aplicações -- Como utilizar técnicas de Bug Bounty em seu DevSecOps
 (https://www.youtube.com/watch?v=1dmZaQ52KIw)
 
@@ -45,9 +45,9 @@ IFPRFOZ: Segurança de Aplicações (o que você precisa saber)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
-![SAST]
-![DAST]
-![Pentesting]
+[SAST]
+[DAST]
+[Pentesting]
 
 #### Technology that I am using but just less
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
