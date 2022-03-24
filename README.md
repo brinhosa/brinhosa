@@ -23,9 +23,21 @@ Welcome to my page; on my Github, you can find:
 
 ![GITHUB STARS](https://github-readme-stats.vercel.app/api?username=brinhosa&show_icons=true&theme=dracula)
 
+#### ![YouTube](https://img.shields.io/badge/presentations-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) Recent Conference presentations:
+Bhack 2021: Hackeando suas próprias aplicações -- Como utilizar técnicas de Bug Bounty em seu DevSecOps
+(https://www.youtube.com/watch?v=1dmZaQ52KIw)
+
+DEFCON Red Team Village: Mayhem 2021 Portuguese Track: Segurança de Aplicações: Aprendendo com os erros (dos outros)
+(https://www.youtube.com/watch?v=CDaJ8gmLUrM)
+
+IFPRFOZ: Segurança de Aplicações (o que você precisa saber)
+(https://www.youtube.com/watch?v=9TNNiO5IMHQ)
+
+
 #### My current technology stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%230769AD.svg?style=flat-square&logo=PHP&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -33,7 +45,9 @@ Welcome to my page; on my Github, you can find:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%230769AD.svg?style=flat-square&logo=PHP&logoColor=white)
+![SAST]
+![DAST]
+![Pentesting]
 
 #### Technology that I am using but just less
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
@@ -46,7 +60,7 @@ Welcome to my page; on my Github, you can find:
 ####  I am 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
 Discovered and reported several vulnerabilities in projects like **Spotify, Symantec, Defense Industrial Base Vulnerability Disclosure Program (DIB-VDP) or Adobe**.
 
-#### ⚔️ List of CVEs reported by me:
+#### ⚔️ CVE reported by me:
 [CVE-2009-3036](https://vulners.com/symantec/SMNTC-1200)
 
 ![](https://hit.yhype.me/github/profile?user_id=1003952)
