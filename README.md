@@ -33,7 +33,7 @@ Welcome to my page; on my Github, you can find:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
-![PHP](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=PHP&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%230769AD.svg?style=flat-square&logo=PHP&logoColor=white)
 
 #### Technology that I am using but just less
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
