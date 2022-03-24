@@ -23,7 +23,7 @@ Welcome to my page; on my Github, you can find:
 
 ![GITHUB STARS](https://github-readme-stats.vercel.app/api?username=brinhosa&show_icons=true&theme=dracula)
 
-#### Recent ![YouTube](https://img.shields.io/badge/presentations-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white):
+#### ![YouTube](https://img.shields.io/badge/Last%20presentations-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white):
 Bhack 2021: Hackeando suas próprias aplicações -- Como utilizar técnicas de Bug Bounty em seu DevSecOps
 (https://www.youtube.com/watch?v=1dmZaQ52KIw)
 
