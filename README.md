@@ -1,7 +1,4 @@
-[![Brinhosa GitHub stats](https://github-readme-stats.vercel.app/api?username=brinhosa&theme=dark)](https://github.com/brinhosa/)
----
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Rafael Brinhosa.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Rafael B. Brinhosa.
 
 
 I am experienced Information Security Consultant, Researcher and Security Architect with 20 years of experience including several years in Application Security. Skilled in developing Information Security programs, assessments, and frameworks aligned to risk, security, and governance practices for organizations. Experienced in manual and automated security testing, Pentesting, DevSecOps, SAST, and DAST. 
@@ -25,13 +22,6 @@ Welcome to my page; on my Github, you can find:
 #### 📜 Github stats:
 
 ![GITHUB STARS](https://github-readme-stats.vercel.app/api?username=brinhosa&show_icons=true&theme=dracula)
-
---- 
-#### I am 🧙 Software Engineer on full-time.
-
-Mostly I work in Microsoft stack, but I believe that the best way is to choose technology for the specific problem.
-
-Additionally, I enjoy expanding my knowledge, because of that, I am open to learning new technologies and languages 🐱‍👓
 
 #### My current technology stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
