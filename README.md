@@ -51,7 +51,7 @@ IFPRFOZ: Segurança de Aplicações (o que você precisa saber)
 [DevSecOps]
 [Pentesting]
 
-#### Technology that I am using but just less
+#### Technology that I am using but just less:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
