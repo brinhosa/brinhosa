@@ -1,7 +1,7 @@
 # Rafael B. Brinhosa
 
 
-I am experienced Information Security Consultant, Researcher and Security Architect with 20 years of experience including several years in Application Security. Skilled in developing Information Security programs, assessments, and frameworks aligned to risk, security, and governance practices for organizations. Experienced in manual and automated security testing, Pentesting, DevSecOps, SAST, and DAST. 
+I am an experienced Information Security Consultant, Researcher and Security Architect with 20 years of experience including several years in Application Security. Skilled in developing Information Security programs, assessments, and frameworks aligned to risk, security, and governance practices for organizations. Experienced in manual and automated security testing, Pentesting, DevSecOps, SAST, and DAST. 
 ( 🏆 Ex-DELL, Ex-USBank, Ex-EDS, now at AVAYA)
 
 Welcome to my page; on my Github, you can find:
