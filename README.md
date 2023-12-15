@@ -8,7 +8,7 @@ Welcome to my page; on my Github, you can find:
 - Projects created by me
 - APIDetector (https://github.com/brinhosa/apidetector) 
 - A curated list of awesome Penetration Testing and DevSecOps Tools ported to Google Colab to make faster and easier to try, execute and test. (https://github.com/brinhosa/awesome-pentest-tools-in-colab)
-- My nuclei templates
+- My nuclei templates (https://github.com/brinhosa/brinhosa-nuclei-templates)
 
 
 #### 📧 You can contact me on:
