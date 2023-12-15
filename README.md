@@ -2,10 +2,11 @@
 
 
 I am an experienced Information Security Consultant, Researcher and Security Architect with 20 years of experience including several years in Application Security. Skilled in developing Information Security programs, assessments, and frameworks aligned to risk, security, and governance practices for organizations. Experienced in manual and automated security testing, Pentesting, DevSecOps, SAST, and DAST. 
-( 🏆  Ex-DELL, Ex-USBank, Ex-EDS(HP), Ex-AVAYA, Ex-Volkswagen Digital Solutions(MAN Trucks and Buses), now working as a Principal Security Architect at Reltio)
+( 🏆  Ex-DELL, Ex-USBank, Ex-EDS(HP), Ex-AVAYA, Ex-Volkswagen Digital Solutions(MAN Trucks and Buses), now working as a Principal Security Architect at Reltio.
 
 Welcome to my page; on my Github, you can find:
-- Projects created by me 
+- Projects created by me
+- APIDetector (https://github.com/brinhosa/apidetector) 
 - A curated list of awesome Penetration Testing and DevSecOps Tools ported to Google Colab to make faster and easier to try, execute and test. (https://github.com/brinhosa/awesome-pentest-tools-in-colab)
 - My nuclei templates
 
