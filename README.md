@@ -13,6 +13,7 @@ Welcome to my page; on my Github, you can find:
 
 #### 📧 You can contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brinhosa/)
+[![Twitter](https://twitter.com/brinhosa/)
 
 #### 🔎 You can find me on: 
 
