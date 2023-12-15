@@ -1,7 +1,7 @@
 # Rafael B. Brinhosa
 
 
-I am an experienced Information Security Consultant, Researcher and Security Architect with 20 years of experience including several years in Application Security. Skilled in developing Information Security programs, assessments, and frameworks aligned to risk, security, and governance practices for organizations. Experienced in manual and automated security testing, Pentesting, DevSecOps, SAST, and DAST. 
+I am an experienced Information Security Consultant, Researcher and Security Architect with 20 years of experience including several years in Application Security. Skilled in developing Information Security programs, assessments, and frameworks aligned to risk, security, and governance practices for organizations. Experienced in manual and automated security testing, Pentesting, DevSecOps, SAST, DAST and Bug Bounty (once per year in free time). 
 ( 🏆  Ex-DELL, Ex-USBank, Ex-EDS(HP), Ex-AVAYA, Ex-Volkswagen Digital Solutions(MAN Trucks and Buses), now working as a Principal Security Architect at Reltio.
 
 Welcome to my page; on my Github, you can find:
