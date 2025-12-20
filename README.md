@@ -6,7 +6,7 @@ I am an experienced Information Security Leader, Consultant, Researcher and Secu
 
 Welcome to my page; on my Github, you can find:
 
-#### Projects created by me
+#### Projects created by me:
 - Awesome AI Security: 🔐🤖 A curated list of AI/LLM security tools, frameworks, guides, papers, and training — focused on open-source and community resources. (https://github.com/brinhosa/awesome-ai-security)
 - APIDetector (https://github.com/brinhosa/apidetector) 
 - A curated list of awesome Penetration Testing and DevSecOps Tools ported to Google Colab to make faster and easier to try, execute and test. (https://github.com/brinhosa/awesome-pentest-tools-in-colab)
