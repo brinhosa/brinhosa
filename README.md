@@ -26,9 +26,6 @@ Welcome to my page; on my Github, you can find:
 
 #### 📜 Github stats:
 ![Rafael's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brinhosa&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=brinhosa&theme=dracula)
-![Top Langs](https://img.shields.io/github/languages/top/brinhosa?color=purple&style=flat-square)
-![Repo Count](https://img.shields.io/github/repos/brinhosa?color=blue&style=flat-square)
 
 #### ![YouTube](https://img.shields.io/badge/Last%20presentations-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 Bhack 2021: Hackeando suas próprias aplicações -- Como utilizar técnicas de Bug Bounty em seu DevSecOps
