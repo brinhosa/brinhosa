@@ -25,9 +25,7 @@ Welcome to my page; on my Github, you can find:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brinhosa/)
 
 #### 📜 Github stats:
-
-<!-- ![GITHUB STARS](https://github-readme-stats.vercel.app/api?username=brinhosa&show_icons=true&theme=dracula) -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=brinhosa&count_private=true&show_icons=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brinhosa&show_icons=true&count_private=true&theme=dracula&hide=issues,prs)](https://github.com/brinhosa)
 
 #### ![YouTube](https://img.shields.io/badge/Last%20presentations-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 Bhack 2021: Hackeando suas próprias aplicações -- Como utilizar técnicas de Bug Bounty em seu DevSecOps
