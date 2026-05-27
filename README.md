@@ -1,18 +1,24 @@
-# Rafael B. Brinhosa
+# Hi, I'm Rafael 👋
 
+Information Security Leader, Architect, and Researcher with 20+ years of experience, with a strong focus on Application Security, Product Security, and AI/Agent Security. I build pragmatic security programs, assessments, and frameworks aligned to risk, governance, and engineering velocity. Hands-on across manual and automated security testing, Pentesting, DevSecOps, SAST, DAST, SCA, and the occasional bug bounty (once a year, in free time 😄).
 
-I am an experienced Information Security Leader, Consultant, Researcher and Security Architect with 20+ years of experience including several years in Application Security. Skilled in developing Information Security programs, assessments, and frameworks aligned to risk, security, and governance practices for organizations. Experienced in manual and automated security testing, Pentesting, DevSecOps, SAST, DAST and Bug Bounty(once per year in free time : D). 
-( 🏆  Ex-DELL, Ex-USBank, Ex-EDS(HP), Ex-AVAYA, Ex-Volkswagen Digital Solutions(MAN Trucks and Buses), now working as a Principal Security Architect at Reltio.
+🏆 Ex-DELL, Ex-U.S. Bank, Ex-EDS (HP), Ex-Avaya, Ex-Volkswagen Digital Solutions (MAN Trucks and Buses). Currently **Director of Information Security at Reltio**, leading Product Security, AppSec, and AI/Agent Security for a B2B SaaS data unification and context intelligence platform (now joining the SAP family).
 
-Welcome to my page; on my Github, you can find:
+🎤 Speaker at OWASP Lisbon on AI agent security ("Hack Your Agents Before They Hack You"). 🔨 APIDetector presented at **BlackHat Arsenal 2024**.
 
-#### Projects created by me:
-- Awesome AI Security: 🔐🤖 A curated list of AI/LLM security tools, frameworks, guides, papers, and training — focused on open-source and community resources. (https://github.com/brinhosa/awesome-ai-security)
-- APIDetector (https://github.com/brinhosa/apidetector) 
-- A curated list of awesome Penetration Testing and DevSecOps Tools ported to Google Colab to make faster and easier to try, execute and test. (https://github.com/brinhosa/awesome-pentest-tools-in-colab)
-- Payloads: some of my All-in-one, Prompt Injection and other payloads like XSS and SQL injection (https://github.com/brinhosa/payloads)
-- My nuclei templates (https://github.com/brinhosa/brinhosa-nuclei-templates)
+## What you'll find here
 
+**Projects I've built and maintain:**
+
+- 🔐🤖 **[Awesome AI Security](https://github.com/brinhosa/awesome-ai-security)** — A curated list of AI/LLM security tools, frameworks, guides, papers, and training, focused on open-source and community resources.
+- 🛰️ **[APIDetector](https://github.com/brinhosa/apidetector)** — Fast scanner for exposed Swagger / OpenAPI endpoints across web domains and subdomains. Presented at BlackHat Arsenal 2024.
+- 🧪 **[Awesome Pentest Tools in Colab](https://github.com/brinhosa/awesome-pentest-tools-in-colab)** — A curated set of Penetration Testing and DevSecOps tools ported to Google Colab, so you can try, run, and test them in seconds without local setup.
+- 💉 **[Payloads](https://github.com/brinhosa/payloads)** — Curated payloads for Prompt Injection, XSS, SQL Injection, and other classic and AI-era attack classes.
+- 🧬 **[Nuclei Templates](https://github.com/brinhosa/brinhosa-nuclei-templates)** — My personal collection of Nuclei templates for vulnerability detection.
+
+## Areas I work in
+
+`AI / LLM / Agent Security` · `Application Security` · `Product Security` · `Penetration Testing` · `DevSecOps` · `SAST / DAST / SCA` · `Cloud Security (AWS, Azure, GCP)` · `Threat Modeling` · `Secure SDLC`
 
 #### 📧 You can contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brinhosa/)
