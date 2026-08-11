@@ -2,7 +2,7 @@
 
 Information Security Leader, Architect, and Researcher with 20+ years of experience, with a strong focus on Application Security, Product Security, and AI/Agent Security. I build pragmatic security programs, assessments, and frameworks aligned to risk, governance, and engineering velocity. Hands-on across manual and automated security testing, Pentesting, DevSecOps, SAST, DAST, SCA, and the occasional bug bounty (once a year, in free time 😄).
 
-🏆 Ex-DELL, Ex-U.S. Bank, Ex-EDS (HP), Ex-Avaya, Ex-Volkswagen Digital Solutions (MAN Trucks and Buses). Currently **Director of Information Security at Reltio**, leading Product Security, AppSec, and AI/Agent Security for a B2B SaaS data unification and context intelligence platform (now joining the SAP family).
+🏆 Ex-DELL, Ex-U.S. Bank, Ex-EDS (HP), Ex-Avaya, Ex-Volkswagen Digital Solutions (MAN Trucks and Buses). Currently **Director of Information Security at Reltio**, an SAP company, leading Product Security, AppSec, and AI/Agent Security for a B2B SaaS data unification and context intelligence platform.
 
 🎤 Speaker at OWASP Lisbon on AI agent security ("Hack Your Agents Before They Hack You"). 🔨 APIDetector presented at **BlackHat Arsenal 2024**.
 
